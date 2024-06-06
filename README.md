@@ -1,1 +1,1 @@
-# test
+# マインクラフトDeepLearningプロジェクト MineDojo
